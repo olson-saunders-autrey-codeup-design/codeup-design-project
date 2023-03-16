@@ -9,3 +9,19 @@
     text-align: center;
     background: #E6563B
 }
+
+.pos {
+    margin-left: auto;
+    width: 5%;
+    background-color: white;
+    color: lightgray;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    float: left;
+}
