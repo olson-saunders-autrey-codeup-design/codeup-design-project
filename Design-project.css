@@ -17,6 +17,20 @@
     background-color: #E6563B;
 
 
+=======
+<<<<<<< HEAD
+.regtext {
+    font-size: 15px;
+}
+
+
+=======
+.pos {
+    margin-left: auto;
+    width: 5%;
+    background-color: white;
+    color: lightgray;
+>>>>>>> 2afbadceb18f4d80fe254a838da904d7119d82a9
 }
 
 .circleB{
@@ -81,6 +95,7 @@ body{
     margin: 0;
 }
 
+<<<<<<< HEAD
 .navbar-toggler{
     margin-left: auto;
     border: none;
@@ -130,3 +145,7 @@ ul.expanded-nav{
     color: black;
     text-decoration: none;
 }
+img {
+    float: left;
+}
+
